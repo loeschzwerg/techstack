@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 226.77 453.54'>
+<defs>
+  <style type='text/css'><![CDATA[
+    line, polyline, polygon, path, rect, circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<rect x='28.35' y='401.81' width='170.08' height='31.12' style='stroke-width: 1.07; stroke: #FE8019; stroke-linecap: square; stroke-linejoin: miter; fill: #282828;' />
+<rect x='28.35' y='362.91' width='170.08' height='38.90' style='stroke-width: 1.07; stroke: #FE8019; stroke-linecap: square; stroke-linejoin: miter; fill: #282828;' />
+<rect x='28.35' y='324.02' width='170.08' height='38.90' style='stroke-width: 1.07; stroke: #FE8019; stroke-linecap: square; stroke-linejoin: miter; fill: #282828;' />
+<rect x='28.35' y='277.34' width='170.08' height='46.68' style='stroke-width: 1.07; stroke: #FE8019; stroke-linecap: square; stroke-linejoin: miter; fill: #282828;' />
+<rect x='28.35' y='230.66' width='170.08' height='46.68' style='stroke-width: 1.07; stroke: #FE8019; stroke-linecap: square; stroke-linejoin: miter; fill: #282828;' />
+<rect x='28.35' y='176.21' width='170.08' height='54.46' style='stroke-width: 1.07; stroke: #FE8019; stroke-linecap: square; stroke-linejoin: miter; fill: #282828;' />
+<rect x='28.35' y='98.41' width='170.08' height='77.79' style='stroke-width: 1.07; stroke: #FE8019; stroke-linecap: square; stroke-linejoin: miter; fill: #282828;' />
+<rect x='28.35' y='20.62' width='170.08' height='77.79' style='stroke-width: 1.07; stroke: #FE8019; stroke-linecap: square; stroke-linejoin: miter; fill: #282828;' />
+<text x='109.40' y='421.32' style='font-size: 11.04px; fill: #FBF1C7; font-family: Source Code Pro;' textLength='7.97px' lengthAdjust='spacingAndGlyphs'>R</text>
+<text x='107.56' y='386.31' style='font-size: 11.04px; fill: #FBF1C7; font-family: Source Code Pro;' textLength='11.66px' lengthAdjust='spacingAndGlyphs'>git</text>
+<text x='67.38' y='347.41' style='font-size: 11.04px; fill: #FBF1C7; font-family: Source Code Pro;' textLength='92.02px' lengthAdjust='spacingAndGlyphs'>HTML / CSS / ES6</text>
+<text x='109.40' y='304.63' style='font-size: 11.04px; fill: #FBF1C7; font-family: Source Code Pro;' textLength='7.97px' lengthAdjust='spacingAndGlyphs'>C</text>
+<text x='101.73' y='257.95' style='font-size: 11.04px; fill: #FBF1C7; font-family: Source Code Pro;' textLength='23.32px' lengthAdjust='spacingAndGlyphs'>Java</text>
+<text x='95.90' y='207.38' style='font-size: 11.04px; fill: #FBF1C7; font-family: Source Code Pro;' textLength='34.97px' lengthAdjust='spacingAndGlyphs'>Clojure</text>
+<text x='96.20' y='141.26' style='font-size: 11.04px; fill: #FBF1C7; font-family: Source Code Pro;' textLength='34.37px' lengthAdjust='spacingAndGlyphs'>Python</text>
+<text x='100.19' y='63.46' style='font-size: 11.04px; fill: #FBF1C7; font-family: Source Code Pro;' textLength='26.39px' lengthAdjust='spacingAndGlyphs'>Linux</text>
+</svg>
