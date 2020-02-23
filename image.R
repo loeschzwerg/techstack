@@ -15,10 +15,12 @@ chart <- ggplot(aes(x="",y=confidence), data=df) +
             # size=7,
             family="Source Code Pro") +
   labs(x=NULL, y=NULL) +
-  theme_void(base_size=15) +
-  theme(panel.background = element_rect(fill='transparent', colour=NA),
-        plot.background = element_rect(fill='transparent', colour=NA))
+  theme_void()
 
-# ggsave("techstack.svg",
-#        plot=chart)
+chart
+ggsave("techstack.png",
+       plot=chart,
+       bg='transparent',
+       width = 2, height = 4)
+
 
